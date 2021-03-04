@@ -1,4 +1,4 @@
-<video autoplay muted src="demo.mp4"></video>
+![Demo](demo.gif)
 
 ## RUN
 
